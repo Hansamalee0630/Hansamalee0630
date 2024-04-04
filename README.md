@@ -1,8 +1,8 @@
 ### Hi there, I'm Hansamalee! 👋
 
 - 🔭 An undergraduate student @[SLIIT](https://www.sliit.lk/), Sri Lanka
-- 🌱 Currently learning about MERN stack, Python and Machine learning
-- 📫 How to reach me: ...
+- ❤️ Currently learning about MERN stack, Power BI, Dashboarding and Machine learning
+- ✨ Java, C, C++, HTML, CSS, Python
 
 <a href="https://github.com/Hansamalee0630/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hansamalee0630&show_icons=true&theme=prussian&&bg_color=00000000" />
