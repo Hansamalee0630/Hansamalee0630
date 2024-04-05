@@ -34,24 +34,22 @@ Data Science undergraduate @SLIIT
 
 <h2 align="center">Yeah! It's me 👽</h2>
 <br>
-<br>
-<!--p align="center"><img src="https://media1.tenor.com/m/yOwKX_hMp6cAAAAd/hackerman-rami-malek.gif" width="500px"></p-->
-<br>
-
 
 -----
 
-<h2>📈 My Github stats</h2>
-<br>
-<a href="https://github.com/Hansamalee0630/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hansamalee0630&show_icons=true&theme=prussian&&bg_color=00000000" />
-</a>
-<br>
-<br>
-<a href="https://github.com/Hansamalee0630/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hansamalee0630&layout=compact&langs_count=8&card_width=320&theme=prussian&&bg_color=00000000" />
-</a>
-
+<div align="center">
+  <h2>📈 My Github stats</h2>
+  <br>
+  <a href="https://github.com/Hansamalee0630/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Hansamalee0630&show_icons=true&theme=prussian&&bg_color=00000000" />
+  </a>
+  <br>
+  <br>
+  <br>
+  <a href="https://github.com/Hansamalee0630/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Hansamalee0630&layout=compact&langs_count=8&card_width=320&theme=prussian&&bg_color=00000000" />
+  </a>
+</div>
 
 <h5><i>*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github readme stats*</i></h5>
 
