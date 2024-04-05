@@ -20,10 +20,10 @@ Data Science undergraduate @SLIIT
   <a target="_blank" href="https://www.instagram.com/hansa_0630/">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a target="_blank" href="https:://twitter.com/hansamalee/">
+  <a target="_blank" href="https://twitter.com/hansamalee/">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge">
   </a>
-  <a target="_blank" href="www.linkedin.com/in/hansamaleeekanayake/">
+  <a target="_blank" href="https://www.linkedin.com/in/hansamaleeekanayake/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
   <a target="_blank" href="https://stackoverflow.com/users/23566897/hansamalee-ekanayake">
