@@ -1,6 +1,7 @@
 ### Hi there, I'm Hansamalee! 👋
 Data Science undergraduate @SLIIT
 --------------------------------------
+<br>
 <img align="right" height="150rem" alt="GIF" src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif" />
 <h2>😎 Who am I?</h2>
 
@@ -11,7 +12,7 @@ Data Science undergraduate @SLIIT
 - ✨ Java, C, C++, HTML, CSS, Python
 - ✉️  You can contact me at [hansamaleeekanyake3006@gmail.com](mailto:hansamaleeekanyake3006@gmail.com)
 
-<br>
+
 <br>
 <p align="center">
   <a target="_blank" href="mailto:hansamaleeekanayake3006@gmail.com">
