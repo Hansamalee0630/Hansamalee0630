@@ -36,10 +36,9 @@ Data Science undergraduate @SLIIT
 <br>
 
 -----
-
-<div align="center">
-  <h2>📈 My Github stats</h2>
+<h2>📈 My Github stats</h2>
   <br>
+<div align="center">
   <a href="https://github.com/Hansamalee0630/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=Hansamalee0630&show_icons=true&theme=prussian&&bg_color=00000000" />
   </a>
