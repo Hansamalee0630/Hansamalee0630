@@ -73,6 +73,10 @@ Data Science undergraduate @SLIIT
     <img height="35rem" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     <br>
     <img height="35rem" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+    <img height="35rem" src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=black&color=linear-gradient(145deg, #A7E46C, #30D788, #F4F64D, #D1EEF6)&labelColor=30D788" />
+
+
+
 
 <br />
 
