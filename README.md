@@ -10,7 +10,7 @@ Data Science undergraduate @SLIIT
 - 🧠  BSc (Hons) in Information Technology Specializing in Data Science
 - ❤️ Currently learning about Power BI, Dashboarding and Machine learning
 - ✨ Java, C, C++, HTML, CSS, Python
-- ✉️  You can contact me at [hansamaleeekanyake3006@gmail.com](mailto:hansamaleeekanyake3006@gmail.com)
+- ✉️  You can contact me at,
 
 
 <br>
