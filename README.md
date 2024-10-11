@@ -9,7 +9,7 @@ Data Science undergraduate @SLIIT
 - 🔭 An undergraduate student @[SLIIT](https://www.sliit.lk/), Sri Lanka
 - 🧠  BSc (Hons) in Information Technology Specializing in Data Science
 - ❤️ Currently learning about Power BI, Dashboarding and Machine learning
-- ✨ Java, C, C++, HTML, CSS, Python
+- ✨ Python, SQL, Pandas, Numpy, Scikit-Learn, Java, C, C++, HTML, CSS, R
 - ✉️  You can contact me at,
 
 
