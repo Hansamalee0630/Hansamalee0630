@@ -1,15 +1,16 @@
-### Hi there, I'm Hansamalee! 👋
-Data Science undergraduate @SLIIT
---------------------------------------
+<h1 align="center">Hi there, I'm Hansamalee! 👋</h1> 
+<h3 align="center">Data Science undergraduate @SLIIT</h3>
+
 <br>
 <img align="right" height="150rem" alt="GIF" src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif" />
-<h2>😎 Who am I?</h2>
+
+<h2 align="center">😎 Who am I?</h2>
 
 - 🌍  I'm based in Sri Lanka
 - 🔭 An undergraduate student @[SLIIT](https://www.sliit.lk/), Sri Lanka
 - 🧠  BSc (Hons) in Information Technology Specializing in Data Science
 - ❤️ Currently learning about Power BI, Dashboarding and Machine learning
-- ✨ Python, SQL, Pandas, Numpy, Scikit-Learn, Java, C, C++, HTML, CSS, R
+- ✨ <b>Python, SQL, Pandas, Numpy, Scikit-Learn, Java, C, C++, HTML, CSS, R</b>
 - ✉️  You can contact me at,
 
 
@@ -36,7 +37,7 @@ Data Science undergraduate @SLIIT
 <br>
 
 -----
- <h2>💻⚙ Languages and Tools </h2>
+ <h2 align="center">💻⚙ Languages and Tools </h2>
    <br>
    <p align="center"> 
      <br>
@@ -64,7 +65,7 @@ Data Science undergraduate @SLIIT
 
 -----
 
-<h2>📈 My Github stats</h2>
+<h2 align="center">📈 My Github stats</h2>
   <br>
 <div align="center">
   <a href="https://github.com/Hansamalee0630/github-readme-stats">
