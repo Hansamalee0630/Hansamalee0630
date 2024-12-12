@@ -2,8 +2,9 @@
 <h3 align="center">Data Science undergraduate @SLIIT</h3>
 
 <br>
-<img align="right" height="150rem" alt="GIF" src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif" />
-
+<img align="left" height="300rem" alt="GIF" src="ai.gif" style="display: block; margin: auto;"/>
+<!-- <img align="right" height="150rem" alt="GIF" src="https://cdn.dribbble.com/users/3528077/screenshots/9072743/media/71859897f522041a420893ce7d27843b.gif" /> -->
+<br>
 <h2 align="center">😎 Who am I?</h2>
 
 - 🌍  I'm based in Sri Lanka
